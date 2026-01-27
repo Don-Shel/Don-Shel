@@ -1,54 +1,103 @@
-# Hello, I'm Donshel Studios! 👋
+# Hi there, I'm Sheldon! 👋
 
-🎨 **Web Designer & Developer**
+### Web Designer & Developer | Creative Problem Solver | Digital Craftsman
 
-Welcome to my GitHub profile! I'm a passionate web designer and developer with a keen eye for detail and a love for creating beautiful, user-friendly websites and applications.
+I'm a passionate web designer and developer who transforms ideas into elegant, user-centric digital experiences. With a strong foundation in both design and development, I create websites that are not only visually stunning but also performant and accessible.
 
-## 🚀 About Me
+---
 
-- 🔭 I’m currently working on various web development projects.
-- 🌱 I’m constantly learning and improving my skills in front-end and back-end development.
-- 👯 I’m looking to collaborate on exciting web development projects.
-- 💬 Ask me about web design, HTML, CSS, JavaScript, and more!
-- 📫 How to reach me: [Email](sheldonletting04@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sheldon-letting-723326301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [TikTok](https://www.tiktok.com/@dnjx28?_t=8oWmdS7snsj&_r=1)
-- ⚡ Fun fact: I love to travel and explore new cultures.
+## 🎯 What I Do
 
-## 🛠️ Languages and Tools
+I specialize in building responsive, modern web applications that combine beautiful design with clean, efficient code. From concept to deployment, I handle every aspect of the development process to deliver exceptional digital solutions.
 
-- **Front-End:** HTML, CSS, JavaScript, React
-- **Back-End:** Node.js, Express, PHP
-- **Design Tools:** Adobe Photoshop, Adobe Illustrator, Figma, Sketch
-- **Other Tools:** Git, GitHub, Webpack, Babel
+**Currently:**
+- 🔨 Building innovative web applications and refining my craft
+- 📚 Deepening my expertise in modern front-end frameworks and backend architecture
+- 🤝 Open to collaborating on impactful web projects
+- 🌍 Exploring the intersection of design, technology, and user experience
 
-## 📈 GitHub Stats
+---
 
-![Sheldon Designs' GitHub stats](https://github-readme-stats.vercel.app/api?username=Don-Shel&show_icons=true&theme=radical)
+## 💻 Tech Stack
 
-## 🏆 GitHub Trophies
+**Front-End Development**
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js
+- Responsive & Mobile-First Design
 
-![Sheldon Designs' GitHub trophies](https://github-profile-trophy.vercel.app/?username=Don-Shel&theme=radical&no-bg=true&no-frame=true)
+**Back-End Development**
+- Node.js & Express.js
+- PHP
 
-## 📊 Top Languages
+**Design & Prototyping**
+- Figma, Sketch
+- Adobe Photoshop, Adobe Illustrator
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Don-Shel&layout=compact&theme=radical)
+**Development Tools**
+- Git & GitHub
+- Webpack, Babel
+- VS Code
 
-## 🌟 Featured Projects
+---
 
-### Project 1: [Awesome Portfolio](https://don-shel.github.io/Sheldon-portfolio/)
-A personal portfolio website to showcase my skills and projects.
+## 🌟 Featured Work
 
-### Project 2: [E-Commerce Platform](https://don-shel.github.io/TheWay-Shop/)
-A full-featured e-commerce platform built 
+### 🎨 [Personal Portfolio](https://donshel-studios.vercel.app)
+A showcase of my skills, projects, and creative journey. Built with attention to detail and modern design principles.
 
-### Project 3: [Beauty Parlor Website](https://don-shel.github.io/Blume-Beauty-Parlor1/)
-A modern beauty website with a sleek design and powerful features.
+### 🛒 [Swift Creation - E-Commerce Platform](https://swiftcreations.vercel.app)
+A full-featured e-commerce solution with intuitive navigation, secure checkout, and seamless user experience.
+
+### 💅 [Blume Beauty Parlor](https://don-shel.github.io/Blume-Beauty-Parlor1/)
+An elegant website for a beauty parlor featuring modern aesthetics, smooth animations, and responsive design.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Don-Shel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Don-Shel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Don-Shel&theme=radical&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15)
+
+</div>
+
+---
 
 ## 🤝 Let's Connect
 
-Feel free to reach out if you'd like to collaborate on a project or just want to chat about web development!
+I'm always interested in hearing about new projects and opportunities. Whether you want to collaborate, need help with a project, or just want to chat about web development, feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sheldon-letting-723326301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![TikTok](https://img.shields.io/badge/TikTok-Follow-blue)](https://www.tiktok.com/@dnjx28?_t=8oWmdS7snsj&_r=1)
-[![Email](https://img.shields.io/badge/Email-Send-blue)](mailto:sheldonletting04@gmail.com)
+<div align="center">
 
-Thanks for visiting my profile! Have a great day! 😊
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheldon-letting-723326301)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheldonletting04@gmail.com)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dnjx28?_t=8oWmdS7snsj&_r=1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://don-shel.github.io/Sheldon-portfolio/)
+
+</div>
+
+---
+
+## 💭 A Bit More About Me
+
+When I'm not coding, you'll find me:
+- ✈️ Traveling and discovering new cultures
+- 🎨 Exploring the latest design trends
+- 📖 Learning new technologies and best practices
+- 🎵 Finding inspiration in music and art
+
+---
+
+<div align="center">
+
+### "Good design is obvious. Great design is transparent."
+
+*Thanks for stopping by! Let's build something amazing together.* ✨
+
+![Profile Views](https://komarev.com/ghpvc/?username=Don-Shel&color=blueviolet&style=flat-square)
+
+</div>
