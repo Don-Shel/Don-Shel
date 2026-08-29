@@ -31,18 +31,16 @@ I specialize in building responsive, modern web applications that combine beauti
 
 **Design & Prototyping**
 - Figma, Sketch
-- Adobe Photoshop, Adobe Illustrator
 
 **Development Tools**
 - Git & GitHub
-- Webpack, Babel
 - VS Code
 
 ---
 
 ## 🌟 Featured Work
 
-### 🎨 [Personal Portfolio](https://donshel-studios.vercel.app)
+### 🎨 [Personal Portfolio](https://donshelstudios.vercel.app)
 A showcase of my skills, projects, and creative journey. Built with attention to detail and modern design principles.
 
 ### 🛒 [Swift Creation - E-Commerce Platform](https://swiftcreations.vercel.app)
